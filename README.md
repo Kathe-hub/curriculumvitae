@@ -1,4 +1,4 @@
-# Desafio Portafolio
+# Desafío Portafolio
 
 ## Resumen módulo 1
 Proyecto ideado para demostrar lo aprendido en el módulo 1: Fundamentos del Desarrollo Web.
@@ -10,10 +10,10 @@ Tecnologías utilizadas:
 
 
 Contenidos:
-- Desafio cv
-- Desafio ChocoEatMe
-- Desafio Iguana
-- Desafio Cupón
+- Desafío cv
+- Desafío ChocoEatMe
+- Desafío Iguana
+- Desafío Cupón
 
 
 
